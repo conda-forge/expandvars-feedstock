@@ -144,5 +144,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@soapy1](https://github.com/soapy1/)
 * [@tierriminator](https://github.com/tierriminator/)
 
